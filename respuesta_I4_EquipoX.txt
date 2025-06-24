@@ -1,0 +1,11 @@
+Artal Tobias
+Barrios Cecilia
+
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+- en testing el backgorund queda en azul
+
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+- en desarollo el fondo quedo de color amarillo
+
+C- ¿Qué color de fondo tiene su página en el MASTER?
+- en Master el color del fondo quedo azul
