@@ -1,5 +1,6 @@
 Artal Tobias
 Barrios Cecilia
+Ayala Marko
 
 A- ¿Qué color de fondo tiene su página en el TESTING ?
 - en testing el backgorund queda en azul
@@ -9,3 +10,6 @@ B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
 
 C- ¿Qué color de fondo tiene su página en el MASTER?
 - en Master el color del fondo quedo azul
+
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+- en el MASTER quedo el favicon de ALFA
