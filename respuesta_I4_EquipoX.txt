@@ -13,3 +13,23 @@ C- ¿Qué color de fondo tiene su página en el MASTER?
 
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 - en el MASTER quedo el favicon de ALFA
+
+E- ¿Algun integrante tuvo problemas al hacer el push?
+- No
+
+F- ¿Que problemas surgieron?
+- Ninguno
+
+H- ¿Qué sucede si cada uno utiliza el push -f?
+- Si cada integrante hace un push -f sin coordinacion, se pueden 
+perder los cambios de los otros compañeros ya que este comando 
+fuerza la subida y sobrescribe lo que haya en el repositorio remoto. 
+
+I- ¿Qué debo hacer para que el index.html tenga todos los <p> de 
+los puntos 18, 19 y 20 en DESARROLLO?
+-Debo hacer un merge de la rama TESTING a DESARROLLO, y al resolver 
+los conflictos en index.html, conservar los tres párrafos 
+agregados por ALFA, BETA y GAMMA. Luego hacer el commit y 
+push con los cambios ya unificados.
+
+
